@@ -16,7 +16,7 @@ button:disabled,
 
 /* No button */
 .hs-blog-post-listing__post-button {
-  display: inline-block;
+  color: green;
 }
 .no-button,
 .no-button:hover,
