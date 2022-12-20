@@ -15,7 +15,9 @@ button:disabled,
 }
 
 /* No button */
-
+.hs-blog-post-listing__post-button {
+  display: inline-block;
+}
 .no-button,
 .no-button:hover,
 .no-button:focus,
